@@ -1,0 +1,22 @@
+.body{
+background-color: gray;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.h1{
+    font-size: 45px;
+    text-align: center;
+}
+
+.lists{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 700px;    
+}
+
+.divclass{
+
+   margin-top: 200px; 
+}
